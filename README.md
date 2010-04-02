@@ -4,7 +4,8 @@ tabAlert
 	- When a user is away playing in another browser tab you
 	  can still feed them with important imformation. This is
 	  a great extension to AJAX calls.
-
+	  
+![Screenshot](http://www.rickyh.co.uk/resources/2010/tabAlertSS.jpg)
 
 How to use
 ----------
